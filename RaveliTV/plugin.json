@@ -1,10 +1,10 @@
 {
 	"description": "<p>Changelog (21/07/24):<p>* Retirado codigo desnecessario.",
-	"author": "lprot, F0R3V3R50F7",
-	"homepage": "https://github.com/dajesusmodz/m7-plugin-vuePRO",
+	"author": "Raveli",
+	"homepage": "https://github.com/araujoraveli/List.m3u-for-PS3/tree/main",
 	"title": "RaveliTV",
 	"synopsis": "Um reprodutor de TV aberto e fácil de usar.",
-	"version": "3.3",
+	"version": "1.3",
 	"file": "ravelitv.js",
 	"M7Version": "7.0.24",
 	"type": "ecmascript",
