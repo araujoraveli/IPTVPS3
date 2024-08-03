@@ -1,10 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1, Filmes
+https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/filmes.m3u
+#EXTINF:-1, Filmes | MARVEL
+https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/filmesmarvel.m3u
 #EXTINF:-1, Desenhos Animados | Looney Tunes
 https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/looneytones.m3u
 #EXTINF:-1, Desenhos Animados | Super Mario World
 https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/supermario.m3u
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ae.png"group-title="Filmes e Séries", A&E 
 http://cdn2.connectbr.com.br/AE/index.m3u8
