@@ -1,17 +1,17 @@
 #EXTM3U
 
 #EXTINF:-1, Desenhos Animados | Looney Tunes
-https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/looneytones.m3u
+https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/TV%200800%20%3E%20Desenhos%20Animados%20%3E%20Looney%20Tunes
 #EXTINF:-1, Desenhos Animados | Super Mario World
-https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/supermario.m3u
-#EXTINF:-1, Desenhos Animados | Infantil PlutoTV
-https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/plutoinfantil.m3u
+https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/TV%200800%20%3E%20Desenhos%20Animados%20%3E%20Super%20Mario%20World
+#EXTINF:-1, Desenhos Animados | PlutoTV - Desenhos
+https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/TV%200800%20%3E%20Desenhos%20Animados%20%3E%20Pluto%20Desenhos
 #EXTINF:-1, Documentário | TV Escola - Espaçonave Terra
-https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/espaconaveterra.m3u
+https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/TV%200800%20%3E%20Document%C3%A1rio%3A%20Espa%C3%A7onave%20Terra
 #EXTINF:-1, PlutoTV
-https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/Pluto%20TV
+https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/TV%200800%20%3E%20Pluto%20TV
 #EXTINF:-1, Samsung TV
-https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/Samsung%20TV
+https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/TV%200800%20%3E%20Samsung%20TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ae.png"group-title="Filmes e Séries", A&E 
 http://cdn2.connectbr.com.br/AE/index.m3u8
