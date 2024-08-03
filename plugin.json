@@ -1,0 +1,15 @@
+{
+	"description": "<p>IPTV gambiarra do KCT",
+	"author": "Raveli",
+	"homepage": "https://github.com/araujoraveli/IPTVPS3",
+	"title": "IPTV PS3",
+	"synopsis": "IPTV PS3 - TV Online, Series, Filmes e mais",
+	"version": "0.0.1",
+  "file": "iptvps3.js",
+	"showtimeVersion": "4.10",
+	"type": "ecmascript",
+	"id": "iptvps3",
+	"icon": "logo.png",
+	"category": "tv",
+        "apiversion": 2
+}
