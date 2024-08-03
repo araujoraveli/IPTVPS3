@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ae.png"group-title="Filmes e Séries", A&E 
 http://cdn2.connectbr.com.br/AE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/amc.png"group-title="Filmes e Séries", AMC
