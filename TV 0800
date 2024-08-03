@@ -1,13 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1, teste xxx
+https://raw.githubusercontent.com/fadifadisadi/lista-IPTV-18/master/Lista%20IPTV%20canal%20adulto%20%2B18
+
 #EXTINF:-1, Desenhos Animados | Looney Tunes
 https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/TV%200800%20%7C%20Desenhos%20Animados%20%7C%20Looney%20Tunes
 #EXTINF:-1, Desenhos Animados | Super Mario World
-https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/TV%200800%20%3E%20Desenhos%20Animados%20%3E%20Super%20Mario%20World
+https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/TV%200800%20%7C%20Desenhos%20Animados%20%7C%20Super%20Mario%20World
 #EXTINF:-1, Desenhos Animados | PlutoTV - Desenhos
 https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/TV%200800%20%3E%20Desenhos%20Animados%20%3E%20Pluto%20Desenhos
 #EXTINF:-1, Documentário | TV Escola - Espaçonave Terra
-https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/TV%200800%20%3E%20Document%C3%A1rio%3A%20Espa%C3%A7onave%20Terra
+https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/TV%200800%20%7C%20Document%C3%A1rio%3A%20Espa%C3%A7onave%20Terra
 #EXTINF:-1, PlutoTV
 https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/TV%200800%20%3E%20Pluto%20TV
 #EXTINF:-1, Samsung TV
