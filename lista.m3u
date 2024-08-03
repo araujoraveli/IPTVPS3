@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, TESTANDO pluto
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_pluto.m3u
+#EXTINF:-1, TESTANDO
+
 
 #EXTINF:-1, Desenhos Animados | Looney Tunes
 https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/looneytones.m3u
@@ -11,6 +11,8 @@ https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/supermario.m3u
 https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/plutoinfantil.m3u
 #EXTINF:-1, Documentário | TV Escola - Espaçonave Terra
 https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/espaconaveterra.m3u
+#EXTINF:-1, PlutoTV
+https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/Pluto%20TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ae.png"group-title="Filmes e Séries", A&E 
 http://cdn2.connectbr.com.br/AE/index.m3u8
