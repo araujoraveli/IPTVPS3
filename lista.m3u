@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, TESTANDO
-https://raw.githubusercontent.com/CristianoCTBA/CR-IPTV/master/opequenourso.m3u8
+#EXTINF:-1, TESTANDO park
+https://r.mjh.nz/PlutoTV/65df713dec9fda0008b7a81d-alt.m3u8
 
 #EXTINF:-1, Desenhos Animados | Looney Tunes
 https://raw.githubusercontent.com/araujoraveli/IPTVPS3/main/list/looneytones.m3u
